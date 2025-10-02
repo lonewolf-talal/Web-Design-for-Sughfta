@@ -1,6 +1,6 @@
 # Sughfta Fashion Store - WordPress Theme
 
-![Theme Screenshot](screenshot.png)
+
 
 A elegant fashion ecommerce WordPress theme with modern design and responsive layout.
 
