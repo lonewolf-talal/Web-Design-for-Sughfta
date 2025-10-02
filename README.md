@@ -1,2 +1,23 @@
-# Web-Design-for-Sughfta
-**Sughfta Fashion Store** - An elegant WordPress theme for fashion ecommerce. Features video backgrounds, responsive design, and modern layouts perfect for clothing boutiques and accessory stores. Clean, professional, and fully customizable.
+# Sughfta Fashion Store - WordPress Theme
+
+![Theme Screenshot](screenshot.png)
+
+A elegant fashion ecommerce WordPress theme with modern design and responsive layout.
+
+## Features
+
+- 🎥 Hero section with video background
+- 📱 Fully responsive design
+- 🛒 Product showcase sections
+- ⏰ Countdown timer for new collections
+- 🎨 Elegant animations and transitions
+- 📧 Newsletter subscription
+- 🛍️ Shopping cart functionality
+
+## Installation
+
+1. Download the theme files
+2. Upload to your WordPress `/wp-content/themes/` directory
+3. Activate the theme in WordPress Admin > Appearance > Themes
+
+## File Structure
